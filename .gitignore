@@ -1,0 +1,11 @@
+*.pyc
+
+__pycache__
+
+django-kate
+
+db.sqlite3
+
+/static
+
+.DS_Store
